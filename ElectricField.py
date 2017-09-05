@@ -5,6 +5,7 @@ Fe = (K * |q1 * q2| )/ pow(r,2) [Newton]
     # q1, q2 : charges
     # r : distance between charges
 Fe = Q * E
+=> E = Fe / Q
 
 # Electric field : amount of force per charge
 E = "Electric field"
@@ -35,3 +36,9 @@ else if q1.charge == "negative": # atract
 # Magnitude of E
 E = Fe / q2 = k ((q1 * q2) / pow(r,2)) / q2 [Newton / coulomb]# elemintate q2
 |E1| = (k * q1) * pow(r,2) # E created by q1, r is distance from point to charge
+
+# Escalar
+f(X,Y,Z) # is different depending on values
+temperature
+# Vectorial
+speed
